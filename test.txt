@@ -2,6 +2,9 @@ Creating a new file
 Adding second line from git hub
 added another line
 
+this line is added from test_1
 added this line from test_2 branch
 
 added another line from test_2
+added another line from test_1
+
