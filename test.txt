@@ -2,8 +2,7 @@ Creating a new file
 Adding second line from git hub
 added another line
 
-<<<<<<< HEAD
 this line is added from test_1
-=======
 added this line from test_2 branch
->>>>>>> 38e3b4d31c64bff3eb6ad65941a84107f7b3c913
+
+added another line from test_1
